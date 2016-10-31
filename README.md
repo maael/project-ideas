@@ -10,3 +10,6 @@ A list of project ideas.
 | Bookmark Manager | A website to collect, group, and search a large amount of bookmarks, with the ability to add tags and other information. Potentially with an extension or bookmarklet. Similar to Wunderlists Read Later and [Papaly](https://papaly.com/). | node.js, JavaScript, CSS, Sass |
 | Markdown Folder Previewer | A simple app to open a folder, and lets you select markdown files and preview them live | node.js, JavaScript, CSS, Sass, nw.js |
 | Games Drinking Game App | An app that lets users choose a game to see associated drinking games | Electron, node.js, JavaScript, CSS, Sass, React |
+| Cocktail Helper Alexa Skill | A skill for Alexa that lets you ask for ingredients with specific ingredients, as well as keeping track of ingredients you have and using those for suggestions | node.js, JavaScript, AWS |
+| Tray Audio Switcher | A simple tray app to quickly see and swap default audio device. | Electron, node.js, JavaScript, CSS, Sass |
+| Blockchain Will Tool | A desktop app using blockchain to let you write and share copies of your Will with people, as well as letting them approve/suggest/make edits for joint/couples Wills | Electron, node.js, JavaScript, CSS, Sass |
